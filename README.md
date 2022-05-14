@@ -3,6 +3,7 @@ console.log
 let myName = "Bolarinwa"
 let mySurname = "AHMED"
 let str = "apple,banana,kiwi"
+let part = str.substr(7,6) 
 console.log("i am",myName)
 console.log("my surname is",mySurname)
 console.log(myName.toUpperCase())
