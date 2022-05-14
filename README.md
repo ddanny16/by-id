@@ -3,6 +3,7 @@ java script
 logs
 console
 ...
+...
 console.log
 let myName = "Bolarinwa"
 let mySurname = "AHMED"
