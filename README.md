@@ -16,6 +16,6 @@ console.log(myName.substring(0,4))
 console.log(part)
 console.log(str2)
 console.log(part2)
-
+console.log(str2)
 
 
