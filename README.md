@@ -14,6 +14,8 @@ console.log(mySurname.slice(2))
 console.log(myName.substring(0,4))
 ...
 console.log(part)
+console.log(str2)
+
 
 
 
