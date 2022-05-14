@@ -1,2 +1,2 @@
 # by-id
-consoles
+console.log
