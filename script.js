@@ -5,7 +5,7 @@ let part = str.substr(7,6)
 let str2 = "A good man once said web is a good power"
 let part2 = str2.replace('good','bad')
 let text = "Please visit Microsoft!"
-let newText = text
+let newText = text.replace('Microsoft!','W3Schools')
 
 
 console.log("i am",myName)
@@ -22,6 +22,7 @@ console.log(str2)
 console.log(part2)
 console.log(str2)
 console.log(text)
+console.log(newText)
 
 
 
