@@ -2,7 +2,7 @@ let myName = "Bolarinwa"
 let mySurname = "AHMED"
 let str = "apple,banana,kiwi"
 let part = str.substr(7,6) 
-
+let str2
 
 
 console.log("i am",myName)
