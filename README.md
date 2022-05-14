@@ -1,6 +1,7 @@
 # by-id
 java script
 logs
+console
 ...
 console.log
 let myName = "Bolarinwa"
