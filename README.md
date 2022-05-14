@@ -6,6 +6,9 @@ let str = "apple,banana,kiwi"
 let part = str.substr(7,6) 
 let str2 = "A good man once said web is a good power"
 let part2 = str2.replace('good','bad')
+let text = "Please visit Microsoft!"
+
+
 console.log("i am",myName)
 console.log("my surname is",mySurname)
 console.log(myName.toUpperCase())
