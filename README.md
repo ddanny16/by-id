@@ -18,4 +18,4 @@ console.log(str2)
 console.log(part2)
 console.log(str2)
 console.log(text)
-
+console.log(newText)
