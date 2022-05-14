@@ -7,4 +7,5 @@ console.log("my surname is",mySurname)
 console.log(myName.toUpperCase())
 console.log(mySurname.toLowerCase())
 console.log(myName.slice(0,4))
+console.log(myName.length);
 
